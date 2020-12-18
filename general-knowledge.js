@@ -4,7 +4,7 @@ var questions = [ {
   quest : "Who is the Prime Minister of India?",
   ans : "NARENDRA MODI",
 }, {
-  quest : "What is the chief minister of Bihar?",
+  quest : "Who is the chief minister of Bihar?",
   ans : "NITISH KUMAR",
 }, {
   quest : "What is the name of the capital of India?",
@@ -23,7 +23,7 @@ var questions = [ {
   ans : "7",
 }, {
   quest : "What is the capital of Bihar?",
-  ans : "Patna",
+  ans : "PATNA",
 }]
 var highscore={
   name: "Aakash",
